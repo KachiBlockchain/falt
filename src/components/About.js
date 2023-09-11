@@ -1,7 +1,4 @@
 import React from "react";
-// import image
-
-import Image from "../assets/img/about.webp";
 const About = () => {
   return (
     <section className="section" id="services">
